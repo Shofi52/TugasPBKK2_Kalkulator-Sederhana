@@ -1,0 +1,15 @@
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.csprojAssemblyReference.cache
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.Form1.resources
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.csproj.GenerateResource.cache
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.AssemblyInfoInputs.cache
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.AssemblyInfo.cs
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.csproj.CoreCompileInputs.cache
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.exe
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.deps.json
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.runtimeconfig.json
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.runtimeconfig.dev.json
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.dll
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.pdb
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.dll
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.pdb
+C:\Users\Shofi\Documents\Kuliah\Sem6\PBKK\Tugas2\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.genruntimeconfig.cache
